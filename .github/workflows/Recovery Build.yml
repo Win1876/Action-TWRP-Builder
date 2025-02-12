@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-12.1'
+        default: 'emerald-user-12-SP1A.210812.016-V816.0.10.0.UNFMIXM-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_emerald'
+        default: 'omni_emerald'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
